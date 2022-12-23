@@ -1,0 +1,34 @@
+.img-google-logo{
+    width: 1.4rem;
+}
+.list-group-item{
+    border: none;
+}
+.list-group-item a svg:hover{
+    fill: blue;
+}
+.heading-section{
+    margin: auto;
+}
+.fs-1{
+    margin: auto;   
+}
+.a-tag-text{
+    text-decoration: none;   
+}
+.card-img-top{
+    width: 10rem;
+}
+.card-img{   
+    height: 15rem;   
+}
+.card-img img:hover{
+    /* width: 8rem; */
+    transform: scale(1.1);
+}
+.card-body p{
+    font-weight: bold;   
+}
+small:hover{
+    color: blue;
+}
